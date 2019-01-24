@@ -1,0 +1,14 @@
+{
+  "name": "nat64check/advanced-custom-fields-pro",
+  "description": "Advanced Custom Fields PRO plugin for NAT64Check",
+  "keywords": ["wordpress"],
+  "type": "wordpress-plugin",
+  "homepage": "https://www.advancedcustomfields.com/",
+  "authors": [
+    {
+      "name": "Elliot Condon",
+      "homepage": "http://www.elliotcondon.com/"
+    }
+  ],
+  "license": "GPL-2.0-or-later"
+}
